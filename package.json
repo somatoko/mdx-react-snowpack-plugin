@@ -1,0 +1,18 @@
+{
+  "name": "mdx-react-snowpack-plugin",
+  "version": "1.0.0",
+  "description": "Minimalistic Snowpack plugin for MDX files with React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snowpack plugin",
+    "mdx"
+  ],
+  "peerDependencies": {
+    "@mdx-js/mdx": "^1.6.22"
+  },
+  "author": "Somatoko",
+  "license": "MIT"
+}
