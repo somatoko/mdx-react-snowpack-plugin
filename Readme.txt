@@ -7,7 +7,7 @@
   Inside Snowpack config:
 
     plugins: [
-      "mdx-snowpack-plugin",
+      "mdx-react-snowpack-plugin",
       // ...
     ],
   

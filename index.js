@@ -3,7 +3,7 @@ const mdx = require('@mdx-js/mdx')
 const babel = require('@babel/core')
 
 const setup = {
-  name: 'mdx-babel-plugin',
+  name: 'mdx-react-snowpack-plugin',
   babelPresets: ['@babel/preset-react'],
   mdx: '@mdx-js/react',
 }
