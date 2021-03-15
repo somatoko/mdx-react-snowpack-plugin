@@ -1,6 +1,6 @@
 {
   "name": "mdx-react-snowpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimalistic Snowpack plugin for MDX files with React.",
   "main": "index.js",
   "scripts": {
